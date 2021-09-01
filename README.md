@@ -13,4 +13,4 @@
 <br>
 <h2>Image Preprocesing
 </h2>
-<p> Before giving image as input, we have to preprocess it.</p>
+<p> Before giving image as input, we have to preprocess it. Because model would not take image as input, before giving image as input we have to change into array of float type data with preprosessing in-build function or library.  </p>
