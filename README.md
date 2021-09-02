@@ -5,7 +5,7 @@
   <li>Perform image preprocessing</li>
   <li> Create A CNN Model</li>
   <li>test the model</li>
-  <li>Evoluate the model</li>
+  <li>Evaluate the model</li>
 </ul>
 <br>
 <h2>Load the Dataset</h2>
