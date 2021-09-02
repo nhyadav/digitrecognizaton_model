@@ -1,6 +1,6 @@
 
 <h1>Digit Recognition Classification model</h1>
-<ul>Steps to create classification model
+<ul><h3>Steps to create classification model</h3>
   <li>Load the Dataset</li>
   <li>Perform image preprocessing</li>
   <li> Create A CNN Model</li>
